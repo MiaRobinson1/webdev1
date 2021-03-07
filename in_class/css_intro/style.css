@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: red;
+    background-color: salmon;
+    text-align: center;
+}
+
+div {
+    font-size: 60px;
+    background-color: sienna;
+    padding: 30px;
+    border: 10px solid blue;
+    margin: 60px;
+
+}
