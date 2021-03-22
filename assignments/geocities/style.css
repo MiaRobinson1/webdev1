@@ -1,0 +1,50 @@
+body {
+  background-image: url("https://cdn2.scratch.mit.edu/get_image/gallery/5198090_200x130.png");
+ }
+
+h1 {
+  text-align: center;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  background-color: orange;
+  padding: 1em;
+  }
+
+h2 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  color: darkblue;
+}
+
+.taco {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  }
+
+.burrito {
+  position: absolute;
+  left: 60em;
+  }
+
+.pizza {
+  position: absolute;
+  bottom: 30em;
+  }
+
+.lettuce {
+  position: relative;
+  width: 10em;
+  top: 25em;
+  }
+
+.meat {
+  position: relative;
+  }
+
+.cheese {
+  position: relative;
+  height: 10em;
+  left: 30em;
+  top: 20em;
+}

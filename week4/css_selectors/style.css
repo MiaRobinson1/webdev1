@@ -1,0 +1,25 @@
+h1 {
+  color: red;
+}
+
+
+h1 {
+  color: orangered;
+}
+
+.regular-text {
+  font-size: 30px;
+}
+
+.cool-text {
+  color: magenta;
+  font-family: cursive;
+}
+
+.large-text {
+  font-size: 40px;
+}
+
+#page-subtitle {
+  color: brown;
+}
