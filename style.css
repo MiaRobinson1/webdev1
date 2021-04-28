@@ -1,0 +1,32 @@
+body {
+  font-family: 'Zen Dots', cursive;
+  background-color: black;
+}
+
+.page-title {
+  text-align: center;
+  color: gray;
+}
+
+nav > ul {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+nav > ul > li {
+  list-style-type: none;
+  margin: .25em;
+}
+
+a {
+  color: darkmagenta;
+}
+
+a:visited {
+  color: pink;
+}
+
+a:hover {
+  color: red;
+}
