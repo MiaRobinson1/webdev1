@@ -1,8 +1,32 @@
 * {
   box-sizing: border-box;
+  background-color: rgb(88, 86, 86);
 }
 
 body {
   margin: 0;
   padding: 0;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 4em;
+}
+
+.img {
+  width: 20vmin;
+  height: 20vmin;
+  object-fit: cover;
+}
+
+.grid-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
+  grid-gap: 1rem;
+  padding: .25rem;
+}
+
+.grid-item {
+  width: 100%;
 }

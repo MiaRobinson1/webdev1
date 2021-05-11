@@ -5,4 +5,26 @@
 body {
   margin: 0;
   padding: 0;
+  background-color: black;
 }
+
+h1 {
+  text-align: center;
+  padding: 4em;
+  background-color: darkmagenta;
+  margin: 2em;
+}
+
+ul > li {
+  text-align: center;
+  padding: 1em;
+  background-color: deeppink;
+  font-size: 20px;
+  
+}
+
+a:hover {
+  color: aliceblue;
+}
+
+
